@@ -50,8 +50,6 @@ Create a new categorical variable for Experience using 4 categories –
 
 Plot a bar graph for this new categorical variable
 
-[Hint – You may make use of if else/nested if statements to accomplish this task. You can refer how Income_Category has been created in the dataset]
-
 Create a scatter plot of the Age and the Experience variable. What do you observe?
 
 What are the top 3 areas (ZIP Codes) where the bank’s customers are located?
@@ -70,24 +68,7 @@ Create 4 separate Pivot Tables. Summarize your data by percentage values.
 
 • Income_Category vs Personal Loan
 
-[Hint: Please drag Personal Loan to the Columns area while creating the Pivot Table to get the required values]
-
 Analyze the Pivot tables created in the previous question and state any anomaly that you observe. Which categorical variables appear most important for your further study if you want to analyze which customers are most likely to take personal loans and why?
 
 In the last campaign, bank reached out to 5000 customers out of which 480 customers accepted the personal loan offer. The bank incurred a huge cost in running a marketing campaign to reach out to so many customers. This is where you as a strategic business consultant step in. You are tasked to optimize the cost of this campaign by identifying the correct target base (without significant reduction in number of acceptances of offers). The bank can then send Personal Loan offers to these target customers who have a higher chance of accepting the offer. Based on your analysis, what strategy would you suggest to the management of HBFC bank?
 
-Observation:
-
-Referring to the analysis and the source data provided I realized that:
-
-In order to efficiently use our resource & get our product sold to the customer's, we need to target some specific groups of customers instead of putting all our resources at whole population.
-
-Considering the Education Criteria we should focus on graduates & professional's . If we observe the maximum customers as classified on education criteria are undergraduates but the conversion rate is the least in this. So we should focus on graduates & Professionals.
-
-The customers earning more than $100,000 have the maximum chances of buying our product.
-
-While analyzing, I came to find out that the customers who are not using online banking tend to take more personal loan rather than the one's who are using online banking.We should focus more on them .
-
-A table is presented in the worksheet which will help you to have a more clear picture of my analysis.
-
-With respect to maximizing our resources & convert Liability Customers to Asset Customers we should focus on the above samples of customers rather than the whole population.
